@@ -12,10 +12,11 @@
       "email": "shanestillwell@gmail.com"
     } 
   ],
+  "dependencies": [],
   "respository": {
     "type": "git",
     "url": "https://github.com/shanestillwell/soap-cookie"
-  }
+  },
   "author": "Shane A. Stillwell",
   "license": "BSD-2-Clause",
   "devDependencies": {
