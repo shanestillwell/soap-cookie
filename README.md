@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/shanestillwell/soap-cookie.png?branch=master)](https://travis-ci.org/shanestillwell/soap-cookie)
+
 # SOAP Cookie Authentication
 
 > Use cookies as a security method for [node-soap]()
