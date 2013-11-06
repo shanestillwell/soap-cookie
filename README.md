@@ -5,6 +5,9 @@
 
 **CAVEAT** This is dependant on `lastResponseHeaders` [#183](https://github.com/milewise/node-soap/pull/183) and currently it is waiting to be merged into the main soap module
 
+## Install
+
+`npm install soap-cookie`
 
 ## Usage
 

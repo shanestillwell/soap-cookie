@@ -6,6 +6,16 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
   },
+  "contributors": [ 
+    {
+      "name": "Shane A. Stillwell",
+      "email": "shanestillwell@gmail.com"
+    } 
+  ],
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/shanestillwell/soap-cookie"
+  }
   "author": "Shane A. Stillwell",
   "license": "BSD-2-Clause",
   "devDependencies": {
