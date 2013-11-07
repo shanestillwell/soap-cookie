@@ -13,9 +13,9 @@
     } 
   ],
   "dependencies": [],
-  "respository": {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/shanestillwell/soap-cookie"
+    "url": "https://github.com/shanestillwell/soap-cookie.git"
   },
   "author": "Shane A. Stillwell",
   "license": "BSD-2-Clause",
