@@ -2,10 +2,10 @@
 
 # SOAP Cookie Authentication
 
-> Use cookies as a security method for [node-soap]()
+> Use cookies as a security method for [node-soap](https://github.com/milewise/node-soap)
 
 
-**CAVEAT** This is dependant on `lastResponseHeaders` [#183](https://github.com/milewise/node-soap/pull/183) and currently it is waiting to be merged into the main soap module
+**CAVEAT** This is mostly dependant on `lastResponseHeaders` [#183](https://github.com/milewise/node-soap/pull/183) and is merged into the master branch, but currently it is waiting to be published to npm
 
 ## Install
 
