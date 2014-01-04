@@ -5,7 +5,7 @@
 > Use cookies as a security method for [node-soap](https://github.com/milewise/node-soap)
 
 
-**CAVEAT** This is mostly dependant on `lastResponseHeaders` [#183](https://github.com/milewise/node-soap/pull/183) and is merged into the master branch, but currently it is waiting to be published to npm
+**CAVEAT** You need at least version `soap 0.3.1` to take advanage of the `lastResponseHeaders` [#183](https://github.com/milewise/node-soap/pull/183).
 
 ## Install
 
@@ -20,7 +20,7 @@ var soap = require('soap'),
 
 soap.createClient(WSDL, function(err, client) {
   client.login(USERNAME, PASSWORD, function(err, response) {
-    
+
     // if login is successful
     client.setSecurity(new Cookie(client.lastResponseHeaders));
 

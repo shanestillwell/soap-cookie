@@ -6,11 +6,11 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
   },
-  "contributors": [ 
+  "contributors": [
     {
       "name": "Shane A. Stillwell",
       "email": "shanestillwell@gmail.com"
-    } 
+    }
   ],
   "dependencies": [],
   "repository": {
