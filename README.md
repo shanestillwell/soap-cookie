@@ -4,9 +4,6 @@
 
 > Use cookies as a security method for [node-soap](https://github.com/milewise/node-soap)
 
-
-**CAVEAT** You need at least version `soap 0.3.1` to take advanage of the `lastResponseHeaders` [#183](https://github.com/milewise/node-soap/pull/183).
-
 ## Install
 
 `npm install soap-cookie`
